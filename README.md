@@ -1,4 +1,4 @@
-## JavaScript Tekrar
+## JavaScript Tekrar By Emre
 
 ## Amaçlar
 
