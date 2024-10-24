@@ -68,7 +68,7 @@ function CemberinAlani(r, pi) {
   return pi * Math.pow(r, 2);
 }
 
-console.log(1);
+console.log(2);
 
 /* (Oto test yok) Yukarıdaki CemberinAlani fonksiyonunu yarıçap = 15 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
