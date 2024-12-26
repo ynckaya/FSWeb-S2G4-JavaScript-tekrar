@@ -127,7 +127,7 @@ let ucetambolunenler,
 
 function sa() {
   console.log("Kodlar çalışıyor");
-  return "Tamam";
+  return "Sorun çözüldü";
 }
 sa();
 module.exports = {
